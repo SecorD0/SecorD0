@@ -1,7 +1,7 @@
 # 👋 Good day!
 
 <p align="center">
-	<a href="https://github.com/SecorD0">
+	<a href="https://github.com/SecorD0" target="_blank">
 		<img align="center" src="https://komarev.com/ghpvc/?username=SecorD0&style=flat-square&color=fc3a5a&label=Visitors" />
 	</a>
 	<a href="https://github.com/SecorD0?tab=followers">
@@ -12,8 +12,8 @@
 # 🔗 Participation in projects
 
 <p align="center">
-	<a href="https://t.me/letskynode">Let's Node! — node Community</a>
-	<a href="https://t.me/letskynode">
+	<a href="https://t.me/letskynode" target="_blank">Let's Node! — node Community</a>
+	<a href="https://t.me/letskynode" target="_blank">
 		<img src="./lets_node.png" />
 	</a>
 </p>
