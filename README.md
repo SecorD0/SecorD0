@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-	<a href="https://t.me/LetsEarnChannel" target="_blank">Let's Node! — various crypto activities</a>
+	<a href="https://t.me/LetsEarnChannel" target="_blank">Let's Earn! — various crypto activities</a>
 	<a href="https://t.me/LetsEarnChannel" target="_blank">
 		<img src="./lets_earn.png" />
 	</a>
