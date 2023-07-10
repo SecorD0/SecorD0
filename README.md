@@ -17,7 +17,7 @@
 	</a>
 	<br><br>
 	<a href="https://t.me/OnePackage" target="_blank">
-		<img src="./1package_logo.png">
+		<img src="./images/1package_logo.png">
 	</a>
 </p>
 
